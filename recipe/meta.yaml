@@ -1,8 +1,8 @@
 {% set name = "infinity" %}
-{% set version = "1.4" %}
+{% set version = "1.5" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "dc4aa138d7e366fc00d2e741e32c78a0fecd16b74f8daeb3f7408b459668005c" %}
+{% set hash = "8daa7c15ce2100fdccfde212337e0cd5cf085869f54dc2634b6c30d61461ecda" %}
 {% set build = 0 %}
 
 package:
